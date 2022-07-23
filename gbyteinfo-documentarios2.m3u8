@@ -8,7 +8,10 @@ https://aipaipara.xyz/br/discovery-science/tracks-v1a1/mono.m3u8?token=bd5a7ba06
 #EXTINF:-1 tvg-logo="http://dgbr.io:80/images/c02e20b3a5e776914050a01c27e07146.png", Discovery Theater
 https://aipaipara.xyz/discovery-theater/tracks-v1a1l1/mono.m3u8?token=9555197b35f0d76117210bed17c52fe4407a9ffe-dcf43a9c52c945c7e95b867e184b80c4-1658115055-1658107855
 
-#EXTINF:-1 tvg-logo="https://supertvaovivo.net/wp-content/uploads/2021/08/Discovery-Science-1.jpg", History
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/historychannel.png", History 2
+https://aipaipara.xyz/h2/tracks-v1a1/mono.m3u8?token=f8efeeb9851f050782cf906b6a77fa2d80a3feba-125cea3290d973c29329d3673dc557e0-1658594074-1658586874
+
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/historychannel.png", History
 https://3watch.xyz/history/tracks-v1a1/mono.m3u8?token=e3f4220d50154ba89b940e61be5d12ea18bba6d2-a54f4c55fc478086b3f8976976a09f55-1658593950-1658586750
 
 #EXTINF:-1 tvg-logo="http://cdnbr.me/logos/img/animalplanet.png", Animal Planet
