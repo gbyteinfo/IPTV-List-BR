@@ -4,3 +4,9 @@ http://168.205.87.198:8555/live/antony/1234/161.m3u8
 
 #EXTINF:-1 tvg-logo="http://xsrv.me/logos/img/bandnews.png", Band News
 https://aipaipara.xyz/band-news/tracks-v1a1/mono.m3u8?token=87f99d5ecdbe657766143ffc22c29b399d635bb4-db1257c37454bd98f44dea041261991d-1658117179-1658109979
+
+#EXTINF:-1 group-title="CANAIS | JORNALISMO" tvg-logo="https://i.imgur.com/wiAaVpH.png",JOVEM PAN NEWS FHD
+http://axr.life:80/gabriela10/gabriela10/465361
+
+#EXTINF:-1 group-title="CANAIS | JORNALISMO" tvg-logo="https://i.imgur.com/wiAaVpH.png",JOVEM PAN NEWS HD
+http://axr.life:80/gabriela10/gabriela10/465362
